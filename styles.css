@@ -1,0 +1,18 @@
+#grid {
+    background-color: aqua;
+    width: 580px;
+    height: 460px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 10px;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+}
